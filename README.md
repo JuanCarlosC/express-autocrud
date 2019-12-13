@@ -1,5 +1,7 @@
 # Express AutoCRUD
 
+![Ui Documentation](https://github.com/JuanCarlosC/express-autocrud/blob/master/ss/ui-documentation-demo.png)
+
 Automate creating a CRUD backend using a config file to auto generate mongoose models, express routes, controllers, and documentation for your resources.
 
 The perfect prototyping tool.
