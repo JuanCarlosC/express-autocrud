@@ -1,8 +1,6 @@
-# express-autocrud
-
 # Express AutoCRUD
 
-Automate creating a CRUD backend using a config file to auto generate mongoose models, express routes, and controllers for your resources.
+Automate creating a CRUD backend using a config file to auto generate mongoose models, express routes, controllers, and documentation for your resources.
 
 The perfect prototyping tool.
 
@@ -52,3 +50,9 @@ body: `{ name: 'Jane Doe' }`
 
 #### DELETE
 `/api/v1/users/{id}`
+
+
+## TO DO
+
+- [] Add the `index.html` for display the UI for the documentation
+- [] Automate creating the UI for the CRUD routes
