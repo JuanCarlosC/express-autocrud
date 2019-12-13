@@ -1,6 +1,6 @@
 {
   "name": "express-autocrud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Auto create mongoose models, controllers, and routes for any given resource",
   "main": "index.js",
   "scripts": {
